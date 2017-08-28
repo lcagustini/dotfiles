@@ -1,0 +1,220 @@
+{
+   "checksum": "d2c3aad3560823ea2ed0060beac00c13",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13138217996050480",
+         "date_modified": "0",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "custom_root": {
+         "speedDial": {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13138218002630637",
+                  "id": "26",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "AB51E2BF-EBAE-4157-B119-6C478CE725DC",
+                     "imageData": "http://redir.opera.com/speeddials/partner/facebook",
+                     "imageDataType": "2",
+                     "imageID": "5243A22ED78411B65CDA129005121CF941D086A621B144FBC0F990740924A7C8",
+                     "imageType": "2",
+                     "last_visited_desktop": "13146089831277684",
+                     "partner_id": "facebook",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/facebook",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/facebook",
+                     "redirect": "1"
+                  },
+                  "name": "Facebook",
+                  "type": "url",
+                  "url": "http://www.facebook.com/"
+               }, {
+                  "date_added": "13138218002630745",
+                  "id": "27",
+                  "meta_info": {
+                     "custom_keywords": "[\"preços\",\"produtos\",\"serviços\",\"lojas\",\"marcas\",\"opiniões\",\"Buscapé\"]",
+                     "guid": "C557E435-AE6D-4659-AFAC-8F35BC9653F6",
+                     "imageData": "http://redir.opera.com/speeddials/partner/buscape_br",
+                     "imageDataType": "2",
+                     "imageID": "38AF17C1DBA9B577A85D9ECC7622614B7F28779200B47DBD52A01B893C280692",
+                     "imageType": "2",
+                     "last_visited_desktop": "13142969486386941",
+                     "partner_id": "buscape_br",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/buscape_br",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/buscape_br",
+                     "redirect": "1"
+                  },
+                  "name": "Buscapé",
+                  "type": "url",
+                  "url": "http://www.buscape.com.br/"
+               }, {
+                  "date_added": "13138218002630817",
+                  "id": "28",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "4237C2F8-1B68-11E6-8CE0-F70370A2A08B",
+                     "imageData": "http://redir.opera.com/speeddials/partner/aliexpress_com_pt",
+                     "imageDataType": "2",
+                     "imageID": "F885B4060044588AC297096E89EBFD7478D864B8DF37764E601EDCDCD0CF9F23",
+                     "imageType": "2",
+                     "partner_id": "aliexpress_com_pt",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/aliexpress_com_pt",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/aliexpress_com_pt",
+                     "redirect": "1"
+                  },
+                  "name": "AliExpress",
+                  "type": "url",
+                  "url": "http://aliexpress.com/"
+               }, {
+                  "date_added": "13138218002630886",
+                  "id": "29",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "7807893C-687B-4EC2-BFCA-034F804E6155",
+                     "imageData": "http://redir.opera.com/speeddials/partner/dafiti",
+                     "imageDataType": "2",
+                     "imageID": "C308A0CF043769D2C7E56CB15D3123FEBA076C7F145445A2E243D9BFC22E019D",
+                     "imageType": "2",
+                     "partner_id": "dafiti",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/dafiti",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/dafiti",
+                     "redirect": "1"
+                  },
+                  "name": "Dafiti",
+                  "type": "url",
+                  "url": "http://www.dafiti.com.br/"
+               }, {
+                  "date_added": "13138218002630953",
+                  "id": "30",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "F1BAF9F8-06A8-4190-836E-4302E745ED8A",
+                     "imageData": "http://redir.opera.com/speeddials/partner/decolar_com",
+                     "imageDataType": "2",
+                     "imageID": "6A931BB46665B72DB7CCED212DAC03FFF0FE0E8DECB3C99F94D6C44655B048F8",
+                     "imageType": "2",
+                     "partner_id": "decolar_com",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/decolar_com",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/decolar_com",
+                     "redirect": "1"
+                  },
+                  "name": "Decolar",
+                  "type": "url",
+                  "url": "http://www.decolar.com/"
+               }, {
+                  "date_added": "13145808665071601",
+                  "id": "43",
+                  "meta_info": {
+                     "custom_keywords": "[\"Netshoes\"]",
+                     "guid": "BA6DBC8E-4713-11E5-8A6C-F394631DAC50",
+                     "imageData": "http://redir.opera.com/speeddials/partner/netshoes_com_br",
+                     "imageDataType": "2",
+                     "imageID": "96815E35FABDBF688037FEA96FCB02C704712886BC7B06D2DBB588211B36E17D",
+                     "imageType": "2",
+                     "partner_id": "netshoes_com_br",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/netshoes_com_br",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/netshoes_com_br",
+                     "redirect": "1"
+                  },
+                  "name": "Netshoes",
+                  "type": "url",
+                  "url": "http://netshoes.com.br/"
+               }, {
+                  "date_added": "13145808665071948",
+                  "id": "44",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "D52CAD4A-4714-11E5-AA3C-F394631DAC50",
+                     "imageData": "http://redir.opera.com/speeddials/partner/olx_com_br",
+                     "imageDataType": "2",
+                     "imageID": "F162F6D874C5FCBD2E8DB437CF273C861874AD3413C639E767BB8885E430ADAB",
+                     "imageType": "2",
+                     "partner_id": "olx_com_br",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/olx_com_br",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/olx_com_br",
+                     "redirect": "1"
+                  },
+                  "name": "OLX",
+                  "type": "url",
+                  "url": "http://www.olx.com.br/"
+               }, {
+                  "date_added": "13138218002631018",
+                  "id": "31",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "5AC8DD96-19A4-11E5-AF48-455D9330F945",
+                     "imageData": "http://redir.opera.com/speeddials/partner/booking_com_br",
+                     "imageDataType": "2",
+                     "imageID": "1C6E16D104AEC48B14F29257CD0B71EA3BCE56115F8F2FAD4B56758FDB623988",
+                     "imageType": "2",
+                     "partner_id": "booking_com_br",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/booking_com_br",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/booking_com_br",
+                     "redirect": "1"
+                  },
+                  "name": "Booking.com",
+                  "type": "url",
+                  "url": "http://www.booking.com/"
+               } ],
+               "date_added": "13138217997894324",
+               "date_modified": "13145808665071948",
+               "id": "8",
+               "meta_info": {
+                  "speed_dial_root_folder_guid": "2636316b-4353-4fff-8eff-25b16220cbf9"
+               },
+               "name": "lucas-arch",
+               "type": "folder"
+            } ],
+            "date_added": "13138217997871002",
+            "date_modified": "0",
+            "id": "6",
+            "name": "Speed Dials",
+            "type": "folder"
+         },
+         "trash": {
+            "children": [  ],
+            "date_added": "13138217997871005",
+            "date_modified": "0",
+            "id": "7",
+            "name": "Trash",
+            "type": "folder"
+         },
+         "unsorted": {
+            "children": [  ],
+            "date_added": "13138217997870983",
+            "date_modified": "0",
+            "id": "4",
+            "name": "Unsorted bookmarks",
+            "type": "folder"
+         },
+         "userRoot": {
+            "children": [  ],
+            "date_added": "13138217997870986",
+            "date_modified": "0",
+            "id": "5",
+            "name": "All bookmarks",
+            "type": "folder"
+         }
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13138217996050492",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Imported bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13138217996050495",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

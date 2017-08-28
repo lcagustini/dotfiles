@@ -1,0 +1,8 @@
+[Added Associations]
+image/png=org.pantheon.photos-viewer.desktop;
+text/html=opera-developer.desktop;
+application/octet-stream=Thunar-folder-handler.desktop;
+application/x-ms-dos-executable=wine.desktop;
+application/zip=xarchiver.desktop;
+image/jpeg=org.pantheon.photos-viewer.desktop;eog.desktop;wine-extension-jpe.desktop;
+text/plain=wine-extension-txt.desktop;
