@@ -3,10 +3,9 @@
 call plug#begin('~/.vim/plugged')
 
 Plug 'airblade/vim-gitgutter'
-Plug 'rakr/vim-one'
+Plug 'morhetz/gruvbox'
 Plug 'vim-airline/vim-airline'
-Plug 'leafgarland/typescript-vim'
-Plug 'maxbane/vim-asm_ca65'
+Plug 'cespare/vim-toml'
 
 call plug#end()
 
@@ -32,12 +31,9 @@ set hidden
 
 set cursorline
 
-nnoremap <F5>  :tabnext<CR>
-nnoremap <F6>  :tabprev<CR>
-
 set expandtab
-set tabstop=2
-set shiftwidth=2
+set tabstop=4
+set shiftwidth=4
 
 set incsearch
 
@@ -46,19 +42,16 @@ set undodir=~/.config/nvim/undo/
 
 set laststatus=2
 
-colorscheme one
-let g:one_allow_italics = 1
+colorscheme gruvbox
 set background=dark
 
 let g:airline_powerline_fonts = 1
-let g:airline_theme='one'
+let g:airline_theme='gruvbox'
 
 set backupdir=$HOME/.vim/swapfiles//
 set directory=$HOME/.vim/swapfiles//
 
-augroup filetypedetect
-  au BufNewFile,BufRead *.s,*.inc set ft=asm_ca65
-augroup END
+set mouse=a
 
 " for hex editing
 augroup Binary

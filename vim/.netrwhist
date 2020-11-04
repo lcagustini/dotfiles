@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/lucas/Documents/blissys-client/pages/of-list'
+let g:netrw_dirhist_2='/home/lucas/Documents/blissys-client/pages'
+let g:netrw_dirhist_1='/home/lucas/Documents/blissys-client/pages/view-order'
+let g:netrw_dirhist_0='/home/lucas/Documents/blissys-client/pages'
+let g:netrw_dirhist_9='/home/lucas/Documents/blissys-client'
+let g:netrw_dirhist_8='/home/lucas/Documents'
+let g:netrw_dirhist_7='/home/lucas/Documents/blissys-server'
+let g:netrw_dirhist_6='/home/lucas/Documents/blissys-server/src'
+let g:netrw_dirhist_5='/home/lucas/Documents/blissys-server/src/data'
+let g:netrw_dirhist_4='/home/lucas/Documents/blissys-server/src'
